@@ -1,8 +1,12 @@
-def find_even_values(src)
+def find_even_values(array_of_arrays)
  count=0 
  even_values=0 
  
- while 
+ while count<array_of_arrays.length do
+   
+   inner_count=0 
+   while inner_count< array_of_arrays[count].length do 
+     
  
  
  
