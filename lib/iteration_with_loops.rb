@@ -2,8 +2,7 @@ def find_even_values(array_of_arrays)
  count=0 
  even_values_array=[] 
  
- while count<array_of_arrays.length do
-   
+ while count < array_of_arrays.length do
    inner_count=0 
    while inner_count< array_of_arrays[count].length do 
      
